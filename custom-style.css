@@ -1,0 +1,127 @@
+#vehicle-data-lists {
+    background-color: white; padding: 1em;
+}
+
+
+#footer-custom .newsletter-column input {
+    color: #fff;
+}
+.vehicle-picker-module .browse_catalog:hover, .vehicle-picker-module .vpicker-submit:hover {
+    background-color: #0d346f;
+}
+
+.Product-Page-Policies {
+  font-size: 20px;
+}
+
+/* Logo */
+#logo-custom .store-logo-module {
+    background-color: #3f3f41;
+}
+
+#logo-custom .store-logo-module img {
+    padding-top: 14px;
+}
+
+.acdelco_logo img {
+    width: 600px;
+    margin: 0px 11em;
+}
+
+.acdelco_logo {
+    margin-top: 0px!important;
+}
+
+.comp_name {
+    font-weight: 700;
+}
+
+.dealer_info {
+    margin-top: 2px!important;
+}
+
+/* Banner Backgrounds */
+.promotional-banner-wrap {
+    background-color: #50C878!important;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #134A9C;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #1357bd;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+button.dropbtn, .dropbtn {
+  margin-right: -10px;
+  margin-left: 5px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 450px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 51;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* The navbar container */
+.navbar {
+  display: flex; /* Ensures inline layout for child elements */
+  align-items: center; /* Centers the buttons vertically */
+  /* other styling as needed */
+  margin-right: -10px!important;
+  margin-left: 5px!important;
+  padding: 0 16px!important;
+}
+
+/* Dropdown Button and Reviews link */
+.dropbtn {
+  background-color: #134A9C;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block; /* makes the link behave like the button */
+}
+
+/* Dropdown and Reviews button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #1357bd;
+}
+
+
+/* ...other styles... */
+
+
+
+/* Add or remove this to hide or show */
+.hide {display:none;}
